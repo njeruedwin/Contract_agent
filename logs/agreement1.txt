@@ -1,0 +1,22 @@
+
+3.	Records
+
+3.1	The Service Provider shall maintain an access record of all persons entering and exiting the Premises. The records shall be compiled and sent to the Client on a monthly basis.
+
+3.2	Upon termination of the Agreement, the Service Provider shall promptly return all access records to the Client. This shall include any electronic or physical copies of the records maintained during the term of the Agreement.
+
+4.	Indemnification 
+
+4.1	The Service Provider will indemnify the Client, its servants and workmen against loss of or damage to property or bodily injury sustained by it or them by reason of any wrongful act, breach of contract or negligence on the part of the security officers or other personnel of the Service Provider whilst performing their duties within the scope of their employment with the Service Provider, against the dishonesty of such officers or personnel whilst performing their duties within the scope of their employment. 
+
+4.2	The Service Provider shall be liable to the Client for any loss of business, goodwill, or any type of special, consequential or indirect loss in any circumstances whatsoever. 
+
+4.3	Nothing in this Agreement shall limit the liability of either party for death or personal injury caused by that party’s negligence. 
+
+4.4	The Service Provider shall not under any circumstances whatsoever be liable to the Client for any loss or damage caused to the Client as a result of the excepted risks as herein described:
+
+
+
+[2025-05-01 09:43:12] ALERT  AGREEMENTAssistant: Obligation Timelines Detected. Creating calendar tasks.
+[2025-05-01 09:43:12] INFO   CalendarManager: Calendar tasks submitted
+[2025-05-01 09:43:12] INFO   CalendarManager: Calendar tasks created successfully.
